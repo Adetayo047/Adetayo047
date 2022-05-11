@@ -74,25 +74,25 @@
 
 
 
-[![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chinemelu4/Chinemelu4/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Adetayo047/Adetayo047/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Chinemelu4/Adetayo047/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Adetayo047/Adetayo047/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Adetayo047/Adetayo047/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Adetayo047/Adetayo047/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
  ###  Most Used Languages & Github Stats
 
-<a href="https://github.com/Chinemelu4/Chinemelu4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinemelu4&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Adetayo047/Adetayo047">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adetayo047&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
     
 <a href="https://github.com/Adetayo047">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinemelu4&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gift GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adetayo047&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gift GitHub Stats" />
 </a>
  
  
 -----
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Chinemelu4">
+    <img src="https://komarev.com/ghpvc/?username=Adetayo047">
 </a>
-<a href="https://github.com/Adetayo047?tab=followers"><img src="https://img.shields.io/github/followers/Chinemelu4?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Adetayo047?tab=followers"><img src="https://img.shields.io/github/followers/Adetayo047?label=Followers&style=social" alt="GitHub Badge"></a>
 
